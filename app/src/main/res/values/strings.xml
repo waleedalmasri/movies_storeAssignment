@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">movies_store</string>
+    <string name="title">Title</string>
+    <string name="app_logo">App Logo</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="search">Search</string>
+</resources>
